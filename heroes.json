@@ -17,12 +17,6 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
-    },
-    {
-      "id": "83672ba2-0662-4e05-a8f2-94d300fa1f10",
-      "name": "Barieva",
-      "description": "крутая",
-      "element": "water"
     }
   ],
   "filters": [

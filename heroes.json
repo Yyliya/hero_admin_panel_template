@@ -13,9 +13,15 @@
       "element": "wind"
     },
     {
-      "id": 3,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
+      "id": "f37b6efd-17fb-4e6c-aa56-ae20097a4efc",
+      "name": "Barieva",
+      "description": "munybtvrce",
+      "element": "wind"
+    },
+    {
+      "id": "6d1060c6-07eb-49a8-81fc-5ffaa469ff54",
+      "name": "Barieva",
+      "description": ";ol,ikmujyhtg",
       "element": "water"
     }
   ],
